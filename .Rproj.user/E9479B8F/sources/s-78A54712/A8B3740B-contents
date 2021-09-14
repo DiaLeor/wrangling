@@ -1,0 +1,57 @@
+#usd
+dollars_bellco <- 195.74
+dollars_capone <- 53.68
+dollars_robin <- 1550
+dollars_sallie <- 3076.92
+ss_monthly <- 1108
+wallet <- dollars_bellco + ss_monthly
+keep_bellco <- 200 + owe #keep in bellco
+keep_capone <- 150 - dollars_capone #keep in capone
+save_robin <- 200
+save_sallie <- 300
+wallet <- wallet - (keep_bellco + keep_capone + save_robin + save_sallie)
+exchange_rate <- 49.64
+
+#php
+rent_owe <- 2300
+approx_meds_owe <- 4986.25
+cat_fund <- 32
+owe <- (rent_owe + approx_meds_owe)/exchange_rate
+owe <- owe + cat_fund
+owe
+600/exchange_rate
+
+4000/exchange_rate
+
+#cat fund
+cat_fund_php <- 80*exchange_rate
+cat_food <- 594*4 #5 bags cat food 6/1
+cat_litter <- 500*3 #1 bag of cat litter 6/1
+cat_used <- cat_food + cat_litter
+cat_fund_php <- cat_fund_php - cat_used
+cat_fund_php
+
+
+96.32
+cat_food
+cat_fund_php
+594+500*2
+1549/exchange_rate
+
+patreon <- 16.50
+google_one <- 1.99
+das <- 85
+grooming <- 13
+better <- 234
+
+capital_one_bills <- das + grooming + better
+capital_one_bills
+
+#450 in cap one
+#180 in rent
+180+400
+848 - 580
+921 - 350
+571 - 180
+
+
