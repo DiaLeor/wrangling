@@ -23,7 +23,7 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 -- tidy-data-1.R
     - Tidy Data - examining some differences between wide data and tidy data via code
   
-    - Reshaping Data - code for the 'gather' and its arguments and notes on how to convert data from wide to tidy and vice versa
+    - Reshaping Data - code for 'gather' and its arguments and notes on how to convert data from wide to tidy and vice versa
   
     - Separate and Unite - notes and code on ways you can use 'separate', 'unite', and 'spread' to tidy data
   
