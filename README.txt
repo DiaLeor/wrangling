@@ -28,7 +28,7 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
     - Separate and Unite - notes and code on ways you can use 'separate', 'unite', and 'spread' to tidy data
   
 -- tidy-data-2.R
-    - Combining Tables -
+    - Combining Tables - notes and code on the differences between '*_join' commands
   
     - Binding -
   
@@ -41,6 +41,13 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 
 -- fertility.png
 - Plot on fertility rates in Germany and South Korea
+
+-- join.png
+- Diagram on join functions
+
+-- votes.png
+- Plot on electoral votes versus population
+
 
 .
 ..
