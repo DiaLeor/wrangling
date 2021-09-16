@@ -14,7 +14,7 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
     - Downloading Files from the Internet - notes on retrieving data directly from a url and code for downloading files from the internet
     
 -- murders.csv
-  - Data on gun murders, copied from the dslabs package
+- Data on US gun murders, copied from the dslabs package
 
 .
 ..
@@ -27,16 +27,20 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
   
     - Separate and Unite - notes and code on ways you can use 'separate', 'unite', and 'spread' to tidy data
   
---tidy-data-2.R
+-- tidy-data-2.R
     - Combining Tables -
   
     - Binding -
   
     - Set Operators -
   
---tidy-data-3.R
+-- tidy-data-3.R
     - Web Scraping -
   
     - CSS Selectors -
+
+-- fertility.png
+- Plot on fertility rates in Germany and South Korea
+
 .
 ..
