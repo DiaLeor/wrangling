@@ -116,7 +116,7 @@ url <- "https://raw.githubusercontent.com/rafalab/dslabs/master/inst/extdata/mur
 dat <- read_csv(url)
 download.file(url, "murders.csv")
 
-tempfile() # unique file name
+tempfile() # randomly generated unique file name
 tmp_filename <- tempfile()
 download.file(url, tmp_filename)
 dat <- read_csv(tmp_filename)
