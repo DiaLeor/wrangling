@@ -1,9 +1,10 @@
 Taking notes on the Data Science: Wrangling course; practicing what I've learned during the previous Data Science Productivity Tools course. For most effective navigation--In RStudio, document outine (Ctrl+Shift+O) aligns with the following .R contents:
 
 --- Directory: data_import --- 
-(BELOW) *** MISSING *** ACCIDENTAL RM -RF *** NEEDS TO BE REWRITTEN FROM SCRATCH ***
 
 -- data-import.R
+- Notes on spreadsheets
+  
     - Paths and the Working Directory - review of the working directory and paths and code for importing data from the dslabs package
     
     - readr and readxl Packages - notes on readr and readxl pacakges and code for reading in files of CSV format
@@ -14,8 +15,7 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
     
 -- murders.csv
   - Data on gun murders, copied from the dslabs package
-  
-(ABOVE) *** MISSING *** ACCIDENTAL RM -RF *** NEEDS TO BE REWRITTEN FROM SCRATCH ***
+
 .
 ..
 .
