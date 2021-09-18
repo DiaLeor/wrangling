@@ -63,7 +63,17 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
   
 -- string-p-2.R
     
-    - Case Study 2: Reported Heights - 
+    - Case Study 2: Reported Heights - continuation of notes on 'str_' functions
+    
+    - Regex - notes on the basics of regular expressions (regex)
+    
+    - Character Classes, Anchors & Modifiers - notes on some particulars (class, anchors, and modifiers) of regex
+    
+    - Search and Replace w/ Regex - notes on how to search and replace with regex
+    
+    - Groups w/ Regex - how to use groups to improve value extraction with regex
+    
+    - Testing and Improving - troubleshooting value extraction with regex
   
 -- string-p-3.R
     - 
