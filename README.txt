@@ -5,13 +5,13 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 -- data-import.R
 - Notes on spreadsheets
   
-    - Paths and the Working Directory - review of the working directory and paths and code for importing data from the dslabs package
+    - Paths and the Working Directory - review of the working directory and paths
     
-    - readr and readxl Packages - notes on readr and readxl pacakges and code for reading in files of CSV format
+    - readr and readxl Packages - notes on readr and readxl pacakges
     
-    - Importing Data Using R-Base Functions - details about the content update that changed 'read.table' default stringsAsFactors = TRUE to stringsAsFactors = FALSE
+    - Importing Data Using R-Base Functions - details about the content update that changed the 'read.table' default
     
-    - Downloading Files from the Internet - notes on retrieving data directly from a url and code for downloading files from the internet
+    - Downloading Files from the Internet - notes on retrieving data directly from a url
     
 -- murders.csv
 - Data on US gun murders, copied from the dslabs package
@@ -23,21 +23,21 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 -- tidy-data-1.R
     - Tidy Data - examining some differences between wide data and tidy data via code
   
-    - Reshaping Data - code for 'gather' and its arguments and notes on how to convert data from wide to tidy and vice versa
+    - Reshaping Data - notes for 'gather' and its arguments and on how to convert data from wide to tidy and vice versa
   
     - Separate and Unite - notes and code on ways you can use 'separate', 'unite', and 'spread' to tidy data
   
 -- tidy-data-2.R
-    - Combining Tables - notes and code on the differences between '*_join' commands
+    - Combining Tables - notes and code on the differences between join commands
   
-    - Binding -
+    - Binding - notes and code on binding data frames via dplyr vs. the R-base functions
   
-    - Set Operators -
+    - Set Operators - notes on set operators
   
 -- tidy-data-3.R
-    - Web Scraping -
+    - Web Scraping - notes and code on basic web scraping
   
-    - CSS Selectors -
+    - CSS Selectors - notes on CSS Selectors
 
 -- fertility.png
 - Plot on fertility rates in Germany and South Korea
@@ -48,6 +48,6 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 -- votes.png
 - Plot on electoral votes versus population
 
-
 .
 ..
+.
