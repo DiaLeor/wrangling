@@ -28,7 +28,7 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
     - Separate and Unite - notes and code on ways you can use 'separate', 'unite', and 'spread' to tidy data
   
 -- tidy-data-2.R
-    - Combining Tables - notes and code on the differences between join commands
+    - Combining Tables - notes and code on the differences between '_join' commands
   
     - Binding - notes and code on binding data frames via dplyr vs. the R-base functions
   
@@ -48,6 +48,24 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 -- votes.png
 - Plot on electoral votes versus population
 
+.
+..
+.
+--- Directory: string_processing ---
+-- string-p-1.R
+    - String Parsing - notes on the common tasks in string processing
+  
+    - Defining Strings: Single/Double & Esc Quotes - notes on how to string properly with '' "" and '\'' "\""
+  
+    - stringr Package - notes on the stringr package
+    
+    - Case Study 1 - notes on some 'str_' functions
+  
+-- string-p-2.R
+    - 
+  
+-- string-p-3.R
+    - 
 .
 ..
 .
