@@ -58,11 +58,11 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
     - Defining Strings: Single/Double & Esc Quotes - notes on how to string properly with '' "" and '\'' "\""
   
     - stringr Package - notes on the stringr package
-    
-    - Case Study 1 - notes on some 'str_' functions
   
 -- string-p-2.R
-    - 
+    - Case Study 1: US Murders - notes on some 'str_' functions
+    
+    - Case Study 2: Reported Heights - 
   
 -- string-p-3.R
     - 
