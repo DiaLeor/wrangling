@@ -59,10 +59,9 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
   
     - stringr Package - notes on the stringr package
     
-     - Case Study 1: US Murders - notes on some 'str_' functions
+    - Case Study 1: US Murders - notes on some 'str_' functions
   
 -- string-p-2.R
-    
     - Case Study 2: Reported Heights - continuation of notes on 'str_' functions
     
     - Regex - notes on the basics of regular expressions (regex)
@@ -76,7 +75,15 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
     - Testing and Improving - troubleshooting value extraction with regex
   
 -- string-p-3.R
-    - 
+    - Separate w/ Regex -
+    
+    - Using Groups & Quantifiers -
+    
+    - String Splitting -
+    
+    - Case Study 3: NL Funding Rates by Gender -
+    
+    - Recoding -
 .
 ..
 .
