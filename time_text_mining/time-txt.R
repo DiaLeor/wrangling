@@ -375,4 +375,5 @@ android_iphone_or %>% inner_join(nrc, by = "word") %>%
   facet_wrap(~sentiment, scales = "free_x", nrow = 2) + 
   geom_bar(stat="identity", show.legend = FALSE) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
+
 ggsave("time_text_mining/trump-tweets-graph.png")
