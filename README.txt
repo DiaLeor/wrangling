@@ -75,15 +75,15 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
     - Testing and Improving - troubleshooting value extraction with regex
   
 -- string-p-3.R
-    - Separate w/ Regex -
+    - Separate w/ Regex - notes on the 'extract' function
     
-    - Using Groups & Quantifiers -
+    - Using Groups & Quantifiers - examples of building a fix using regex techniques
     
-    - String Splitting -
+    - String Splitting - notes on splitting strings
     
-    - Case Study 3: NL Funding Rates by Gender -
+    - Case Study 3: NL Funding Rates by Gender - continuation of notes on splitting strings
     
-    - Recoding -
+    - Recoding - some basics of 'recode'
 .
 ..
 .
