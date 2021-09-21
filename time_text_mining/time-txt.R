@@ -17,7 +17,7 @@
 # mdy_hms()).
 
 # .. Code ..
-# inspect the startdate column of 2016 polls data, a Date type
+# inspect the startdate column of 2016 polls data, a Date type:
 library(tidyverse)
 library(dslabs)
 data("polls_us_election_2016")
