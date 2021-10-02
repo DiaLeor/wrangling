@@ -174,7 +174,7 @@ ggsave("time_text_mining/trump-tweets-graph.png")
 
 # Text as Data ------------------------------------------------------------
 
-# The tidytext package helps us convert free from text into a tidy table. Having the data in this format greatly
+# The tidytext package helps us convert free form text into a tidy table. Having the data in this format greatly
 # facilitates data visualization and applying statistical techniques.
 library(tidytext)
 
