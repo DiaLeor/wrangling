@@ -89,4 +89,10 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 .
 --- Directory: time_text_mining ---
 -- time-txt.R
-    - Dates and Times - 
+    - Dates and Times - notes on date-time objects and the lubridate package
+    
+    - Case Study: Trump Tweets - notes on text-mining basics
+    
+    - Text as Data - using tidytext to convert free form text as data
+    
+    - Sentiment Analysis - notes on performing sentiment analysis via tidytext
