@@ -1,17 +1,25 @@
-Taking notes on the Data Science: Wrangling course; practicing what I've learned during the previous Data Science Productivity Tools course. For most effective navigation--In RStudio, document outine (Ctrl+Shift+O) aligns with the following .R contents:
+Taking notes on the Data Science: Wrangling course; practicing what I've learned during the previous Data Science Productivity Tools course.
+
+Link to HarvardX Data Science: Productivity Tools:
+  https://www.edx.org/course/data-science-productivity-tools?index=product&queryID=dca3b42c42c58774ded064eee1d99254&position=12
+
+Link to HarvardX Data Science: Wrangling:
+  https://www.edx.org/course/data-science-wrangling?index=product&queryID=43ba717e93becc196939eee380552c75&position=11
+
+For most effective navigation--In RStudio, document outine (Ctrl+Shift+O) aligns with the following .R contents:
 
 --- Directory: data_import --- 
 
 -- data-import.R
-- Notes on spreadsheets
+- working with spreadsheets
   
     - Paths and the Working Directory - review of the working directory and paths
     
-    - readr and readxl Packages - notes on readr and readxl pacakges
+    - readr and readxl Packages -  readr and readxl pacakges
     
     - Importing Data Using R-Base Functions - details about the content update that changed the 'read.table' default
     
-    - Downloading Files from the Internet - notes on retrieving data directly from a url
+    - Downloading Files from the Internet -  retrieving data directly from a url
     
 -- murders.csv
 - Data on US gun murders, copied from the dslabs package
@@ -23,21 +31,21 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 -- tidy-data-1.R
     - Tidy Data - examining some differences between wide data and tidy data via code
   
-    - Reshaping Data - notes for 'gather' and its arguments and on how to convert data from wide to tidy and vice versa
+    - Reshaping Data -'gather' and its arguments and on how to convert data from wide to tidy and vice versa
   
-    - Separate and Unite - notes and code on ways you can use 'separate', 'unite', and 'spread' to tidy data
+    - Separate and Unite - ways you can use 'separate', 'unite', and 'spread' to tidy data
   
 -- tidy-data-2.R
-    - Combining Tables - notes and code on the differences between '_join' commands
+    - Combining Tables - differences between '_join' commands
   
-    - Binding - notes and code on binding data frames via dplyr vs. the R-base functions
+    - Binding - binding data frames via dplyr vs. the R-base functions
   
-    - Set Operators - notes on set operators
+    - Set Operators - working with set operators
   
 -- tidy-data-3.R
-    - Web Scraping - notes and code on basic web scraping
+    - Web Scraping - basic web scraping
   
-    - CSS Selectors - notes on CSS Selectors
+    - CSS Selectors - working with CSS Selectors
 
 -- fertility.png
 - Plot on fertility rates in Germany and South Korea
@@ -53,33 +61,33 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 .
 --- Directory: string_processing ---
 -- string-p-1.R
-    - String Parsing - notes on the common tasks in string processing
+    - String Parsing -  the common tasks in string processing
   
-    - Defining Strings: Single/Double & Esc Quotes - notes on how to string properly with '' "" and '\'' "\""
+    - Defining Strings: Single/Double & Esc Quotes -  how to string properly with '' "" and '\'' "\""
   
-    - stringr Package - notes on the stringr package
+    - stringr Package - working with the stringr package
     
-    - Case Study 1: US Murders - notes on some 'str_' functions
+    - Case Study 1: US Murders - working with some 'str_' functions
   
 -- string-p-2.R
     - Case Study 2: Reported Heights - continuation of notes on 'str_' functions
     
-    - Regex - notes on the basics of regular expressions (regex)
+    - Regex -  the basics of regular expressions (regex)
     
-    - Character Classes, Anchors & Modifiers - notes on some particulars (class, anchors, and modifiers) of regex
+    - Character Classes, Anchors & Modifiers -  some particulars (class, anchors, and modifiers) of regex
     
-    - Search and Replace w/ Regex - notes on how to search and replace with regex
+    - Search and Replace w/ Regex -  how to search and replace with regex
     
     - Groups w/ Regex - how to use groups to improve value extraction with regex
     
     - Testing and Improving - troubleshooting value extraction with regex
   
 -- string-p-3.R
-    - Separate w/ Regex - notes on the 'extract' function
+    - Separate w/ Regex - working with the 'extract' function
     
     - Using Groups & Quantifiers - examples of building a fix using regex techniques
     
-    - String Splitting - notes on splitting strings
+    - String Splitting -  splitting strings
     
     - Case Study 3: NL Funding Rates by Gender - continuation of notes on splitting strings
     
@@ -89,13 +97,13 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
 .
 --- Directory: time_text_mining ---
 -- time-txt.R
-    - Dates and Times - notes on date-time objects and the lubridate package
+    - Dates and Times -  date-time objects and the lubridate package
     
-    - Case Study: Trump Tweets - notes on text-mining basics
+    - Case Study: Trump Tweets -  text-mining basics
     
     - Text as Data - using tidytext to convert free form text as data
     
-    - Sentiment Analysis - notes on performing sentiment analysis via tidytext
+    - Sentiment Analysis -  performing sentiment analysis via tidytext
 
 -- sentiment-graph.png
 - Graph for sentiment analysis on Trump tweets
