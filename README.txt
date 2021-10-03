@@ -96,3 +96,12 @@ Taking notes on the Data Science: Wrangling course; practicing what I've learned
     - Text as Data - using tidytext to convert free form text as data
     
     - Sentiment Analysis - notes on performing sentiment analysis via tidytext
+
+-- sentiment-graph.png
+- Graph for sentiment analysis on Trump tweets
+
+-- sentiment-plot.png
+- Plot for sentiment analysis of Trump tweets
+
+-- trump-tweets-graph.png
+- Graph on Trump tweets, device used for each hour of the day
