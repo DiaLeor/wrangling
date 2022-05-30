@@ -1,10 +1,10 @@
 Taking notes on the Data Science: Wrangling course; practicing what I've learned during the previous Data Science Productivity Tools course.
 
 Link to HarvardX Data Science: Productivity Tools:
-  https://www.edx.org/course/data-science-productivity-tools?index=product&queryID=dca3b42c42c58774ded064eee1d99254&position=12
+  https://www.edx.org/course/data-science-productivity-tools
 
 Link to HarvardX Data Science: Wrangling:
-  https://www.edx.org/course/data-science-wrangling?index=product&queryID=43ba717e93becc196939eee380552c75&position=11
+  https://www.edx.org/course/data-science-wrangling
 
 For most effective navigation--In RStudio, document outine (Ctrl+Shift+O) aligns with the following .R contents:
 
